@@ -1,7 +1,7 @@
 # syntax=docker/dockerfile:1
 
 ##
-## Build the application from source
+## Build the application from source (later run on k8)
 ##
 
 FROM golang:1.19 AS build-stage
