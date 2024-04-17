@@ -1,1 +1,1 @@
-A simple Go server/microservice
+A simple Go server/microservice.
