@@ -1,4 +1,4 @@
-# syntax=docker/dockerfile:1
+# syntax=docker/dockerfile:1 
  
 ##
 ## Build the application from source (later run on k8)
