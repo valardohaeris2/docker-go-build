@@ -31,7 +31,7 @@ FROM gcr.io/distroless/base-debian11 AS build-release-stage
 WORKDIR /
 
 COPY --from=build-stage /docker-gs-ping /docker-gs-ping
-
+ 
 EXPOSE 8080
 
 USER nonroot:nonroot
